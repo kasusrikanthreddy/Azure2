@@ -15,8 +15,8 @@ spec:
         app: orderitem
     spec:
       containers:
-      - name: dnazureacrcase
-        image: dnazureacrcase.azurecr.io/dnazureacroder:latest
+      - name: orderitem
+        image: acr20220728.azurecr.io/orderrepo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
