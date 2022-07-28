@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJEOiS1ndF7DBNAgpuHnVTwEiHwbI4fu5LymtuQMRRDDm7UOJlgkqjxh/ldosd6U8XxyA5bToa6DIetNcHYGYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kasus\\Documents\\work 2021\\ans\\Cognizant-DotNET-Training-main\\TruYum\\TRUYUM SOLUTION\\stage 4\\OrderItem\\OrderItem\\OrderItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kasus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\kasus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

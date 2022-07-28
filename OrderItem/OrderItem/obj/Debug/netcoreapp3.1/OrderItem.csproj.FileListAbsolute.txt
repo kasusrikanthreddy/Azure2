@@ -1,0 +1,72 @@
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.exe
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.deps.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.dev.json
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.AssemblyReference.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfoInputs.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfo.cs
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CoreCompileInputs.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.Manifest.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.xml
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderItem.styles.css
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.RazorTargetAssemblyInfo.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CopyComplete
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\2085786\source\repos\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
+C:\Users\2085786\source\repos\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.exe
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.deps.json
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.json
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.dev.json
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.AssemblyReference.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfoInputs.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfo.cs
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CoreCompileInputs.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.Manifest.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.xml
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderItem.styles.css
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.RazorTargetAssemblyInfo.cache
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CopyComplete
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\kasus\Downloads\5_6138674053252122420\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.exe
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.deps.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.runtimeconfig.dev.json
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.AssemblyReference.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfoInputs.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.AssemblyInfo.cs
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CoreCompileInputs.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.Manifest.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\staticwebassets\OrderItem.StaticWebAssets.xml
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderItem.styles.css
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.RazorTargetAssemblyInfo.cache
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CopyComplete
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.dll
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.pdb
+C:\Users\kasus\Documents\work 2021\ans\Cognizant-DotNET-Training-main\TruYum\TRUYUM SOLUTION\stage 4\OrderItem\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimeconfig.cache
